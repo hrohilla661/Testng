@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-14T12:31:50 IST" name="Default suite" finished-at="2023-05-14T12:31:51 IST" duration-ms="264">
+  <suite started-at="2023-05-16T15:56:11 IST" name="Default suite" finished-at="2023-05-16T15:56:11 IST" duration-ms="231">
     <groups>
     </groups>
-    <test started-at="2023-05-14T12:31:50 IST" name="Default test" finished-at="2023-05-14T12:31:51 IST" duration-ms="264">
+    <test started-at="2023-05-16T15:56:11 IST" name="Default test" finished-at="2023-05-16T15:56:11 IST" duration-ms="231">
       <class name="Airtel.NewReg">
-        <test-method signature="registration(java.util.HashMap)[pri:0, instance:Airtel.NewReg@2dc54ad4]" started-at="2023-05-14T12:31:51 IST" name="registration" data-provider="getData" finished-at="2023-05-14T12:31:51 IST" duration-ms="0" status="SKIP">
+        <test-method signature="registration(java.util.HashMap)[pri:0, instance:Airtel.NewReg@2dc54ad4]" started-at="2023-05-16T15:56:11 IST" name="registration" data-provider="getData" finished-at="2023-05-16T15:56:11 IST" duration-ms="0" status="SKIP">
           <exception class="java.lang.RuntimeException">
             <message>
               <![CDATA[com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'C': was expecting (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
